@@ -1,0 +1,3 @@
+/home/m0nisa/SocketWithThreadPool/ThreadPool/CMakeBuild/CMakeFiles/ThPool.dir
+/home/m0nisa/SocketWithThreadPool/ThreadPool/CMakeBuild/CMakeFiles/edit_cache.dir
+/home/m0nisa/SocketWithThreadPool/ThreadPool/CMakeBuild/CMakeFiles/rebuild_cache.dir

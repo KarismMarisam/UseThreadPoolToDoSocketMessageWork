@@ -1,0 +1,3 @@
+/home/m0nisa/ThreadPoolPractice/CMakeBuild/CMakeFiles/result.dir
+/home/m0nisa/ThreadPoolPractice/CMakeBuild/CMakeFiles/edit_cache.dir
+/home/m0nisa/ThreadPoolPractice/CMakeBuild/CMakeFiles/rebuild_cache.dir

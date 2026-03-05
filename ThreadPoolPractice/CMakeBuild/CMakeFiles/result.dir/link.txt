@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/result.dir/link.d CMakeFiles/result.dir/cpps/Task.cpp.o CMakeFiles/result.dir/cpps/TaskQueue.cpp.o CMakeFiles/result.dir/cpps/ThreadPool.cpp.o CMakeFiles/result.dir/cpps/test.cpp.o -o /home/m0nisa/ThreadPoolPractice/result
